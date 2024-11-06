@@ -1,0 +1,574 @@
+[
+  {
+    "id": "1",
+    "title": "Frontend Developer",
+    "location": "New York, NY",
+    "description": "Looking for a skilled developer experienced in React and CSS to build responsive web applications.",
+    "companyName": "Tech Solutions Inc.",
+    "contact": {
+      "email": "hr@techsolutions.com",
+      "phone": "+1-555-123-4567"
+    },
+    "requirements": [
+      "3+ years in frontend development",
+      "Proficiency in HTML, CSS, JavaScript, and React",
+      "Experience with REST APIs",
+      "Strong understanding of responsive design"
+    ],
+    "experience": "3+ years",
+    "postedDate": "2024-11-01",
+    "employmentType": "Full-Time",
+    "salary": "$85,000 - $95,000",
+    "deadline": "2024-12-01"
+  },
+  {
+    "id": "2",
+    "title": "Backend Developer",
+    "location": "Remote",
+    "description": "Seeking a backend developer proficient in Node.js to build scalable backend services.",
+    "companyName": "CloudWorks",
+    "contact": {
+      "email": "jobs@cloudworks.com",
+      "phone": "+1-555-987-6543"
+    },
+    "requirements": [
+      "2+ years with Node.js and MongoDB",
+      "Experience with RESTful services",
+      "Knowledge of microservices architecture",
+      "Problem-solving skills"
+    ],
+    "experience": "2+ years",
+    "postedDate": "2024-11-03",
+    "employmentType": "Contract",
+    "salary": "$50/hour",
+    "deadline": "2024-12-05"
+  },
+  {
+    "id": "3",
+    "title": "Data Scientist",
+    "location": "San Francisco, CA",
+    "description": "Looking for a Data Scientist to analyze data and develop machine learning models.",
+    "companyName": "DataLab",
+    "contact": {
+      "email": "recruit@datalab.com",
+      "phone": "+1-555-555-8765"
+    },
+    "requirements": [
+      "5+ years in data science",
+      "Proficiency in Python and R",
+      "Experience with machine learning and data visualization tools",
+      "Strong analytical skills"
+    ],
+    "experience": "5+ years",
+    "postedDate": "2024-10-28",
+    "employmentType": "Full-Time",
+    "salary": "$120,000 - $135,000",
+    "deadline": "2024-12-01"
+  },
+  {
+    "id": "4",
+    "title": "UI/UX Designer",
+    "location": "Austin, TX",
+    "description": "Experienced UI/UX Designer needed to create user-centered designs for mobile and web applications.",
+    "companyName": "DesignHub Studios",
+    "contact": {
+      "email": "design@designhub.com",
+      "phone": "+1-555-333-4567"
+    },
+    "requirements": [
+      "3+ years of UI/UX design experience",
+      "Proficiency in Figma, Sketch, or Adobe XD",
+      "Portfolio demonstrating design skills",
+      "Understanding of UX principles and processes"
+    ],
+    "experience": "3+ years",
+    "postedDate": "2024-11-02",
+    "employmentType": "Full-Time",
+    "salary": "$70,000 - $85,000",
+    "deadline": "2024-12-10"
+  },
+  {
+    "id": "5",
+    "title": "Marketing Specialist",
+    "location": "Remote",
+    "description": "Seeking a Marketing Specialist with experience in digital campaigns and SEO.",
+    "companyName": "Growthify",
+    "contact": {
+      "email": "apply@growthify.com",
+      "phone": "+1-555-444-7890"
+    },
+    "requirements": [
+      "2+ years in digital marketing",
+      "Experience with SEO and social media management",
+      "Ability to analyze marketing data",
+      "Excellent communication skills"
+    ],
+    "experience": "2+ years",
+    "postedDate": "2024-11-01",
+    "employmentType": "Part-Time",
+    "salary": "$40,000 - $50,000",
+    "deadline": "2024-12-15"
+  },
+  {
+    "id": "6",
+    "title": "Full-Stack Developer",
+    "location": "Chicago, IL",
+    "description": "Join our team as a Full-Stack Developer, working with both frontend and backend technologies.",
+    "companyName": "InnovaTech",
+    "contact": {
+      "email": "careers@innovatech.com",
+      "phone": "+1-555-222-6543"
+    },
+    "requirements": [
+      "4+ years of full-stack development experience",
+      "Proficiency in JavaScript, React, and Node.js",
+      "Experience with MongoDB",
+      "Problem-solving skills"
+    ],
+    "experience": "4+ years",
+    "postedDate": "2024-11-04",
+    "employmentType": "Full-Time",
+    "salary": "$90,000 - $100,000",
+    "deadline": "2024-12-20"
+  },
+  {
+    "id": "7",
+    "title": "Product Manager",
+    "location": "Boston, MA",
+    "description": "Looking for a Product Manager to lead cross-functional teams and drive product strategy.",
+    "companyName": "Productify",
+    "contact": {
+      "email": "pm@productify.com",
+      "phone": "+1-555-666-1234"
+    },
+    "requirements": [
+      "3+ years in product management",
+      "Experience in agile methodologies",
+      "Ability to lead teams",
+      "Strong communication and problem-solving skills"
+    ],
+    "experience": "3+ years",
+    "postedDate": "2024-11-01",
+    "employmentType": "Full-Time",
+    "salary": "$95,000 - $110,000",
+    "deadline": "2024-12-12"
+  },
+  {
+    "id": "8",
+    "title": "DevOps Engineer",
+    "location": "Remote",
+    "description": "Seeking a DevOps Engineer to optimize our deployment pipeline and automate processes.",
+    "companyName": "DeployEasy",
+    "contact": {
+      "email": "jobs@deployeasy.com",
+      "phone": "+1-555-888-1234"
+    },
+    "requirements": [
+      "2+ years in DevOps",
+      "Experience with Docker, Kubernetes, and CI/CD tools",
+      "Strong scripting skills",
+      "Problem-solving ability"
+    ],
+    "experience": "2+ years",
+    "postedDate": "2024-11-05",
+    "employmentType": "Full-Time",
+    "salary": "$85,000 - $95,000",
+    "deadline": "2024-12-10"
+  },
+  {
+    "id": "9",
+    "title": "QA Engineer",
+    "location": "San Francisco, CA",
+    "description": "QA Engineer needed to develop and execute automated test suites for web applications.",
+    "companyName": "QualityFirst",
+    "contact": {
+      "email": "apply@qualityfirst.com",
+      "phone": "+1-555-111-9999"
+    },
+    "requirements": [
+      "3+ years in software quality assurance",
+      "Experience with Selenium, JUnit, or similar tools",
+      "Understanding of test automation",
+      "Strong attention to detail"
+    ],
+    "experience": "3+ years",
+    "postedDate": "2024-11-03",
+    "employmentType": "Full-Time",
+    "salary": "$80,000 - $90,000",
+    "deadline": "2024-12-08"
+  },
+  {
+    "id": "10",
+    "title": "Content Writer",
+    "location": "Remote",
+    "description": "We are hiring a Content Writer to create high-quality content for our blog and marketing materials.",
+    "companyName": "Contently",
+    "contact": {
+      "email": "contact@contently.com",
+      "phone": "+1-555-777-4567"
+    },
+    "requirements": [
+      "1+ years in content writing",
+      "Excellent writing and editing skills",
+      "Experience with SEO best practices",
+      "Ability to meet deadlines"
+    ],
+    "experience": "1+ years",
+    "postedDate": "2024-11-01",
+    "employmentType": "Freelance",
+    "salary": "$30/hour",
+    "deadline": "2024-12-15"
+  },
+  {
+    "id": "11",
+    "title": "Android Developer",
+    "location": "Los Angeles, CA",
+    "description": "We are looking for an Android Developer to develop mobile applications using Kotlin and Java.",
+    "companyName": "AppDev Co.",
+    "contact": {
+      "email": "careers@appdev.com",
+      "phone": "+1-555-222-1111"
+    },
+    "requirements": [
+      "2+ years in mobile app development",
+      "Experience with Kotlin and Java",
+      "Understanding of Android SDK",
+      "Familiarity with RESTful APIs"
+    ],
+    "experience": "2+ years",
+    "postedDate": "2024-11-06",
+    "employmentType": "Full-Time",
+    "salary": "$70,000 - $80,000",
+    "deadline": "2024-12-20"
+  },
+  {
+    "id": "12",
+    "title": "iOS Developer",
+    "location": "New York, NY",
+    "description": "We are looking for an iOS Developer to build robust applications for iOS using Swift.",
+    "companyName": "MobileTech",
+    "contact": {
+      "email": "recruit@mobiletech.com",
+      "phone": "+1-555-888-3333"
+    },
+    "requirements": [
+      "3+ years in iOS development",
+      "Proficiency in Swift",
+      "Experience with UIKit, Core Data",
+      "Strong problem-solving skills"
+    ],
+    "experience": "3+ years",
+    "postedDate": "2024-11-02",
+    "employmentType": "Full-Time",
+    "salary": "$75,000 - $85,000",
+    "deadline": "2024-12-08"
+  },
+  {
+    "id": "13",
+    "title": "Front-End Developer (Vue.js)",
+    "location": "Boston, MA",
+    "description": "Seeking a Front-End Developer with experience in Vue.js to build dynamic user interfaces.",
+    "companyName": "DevWorks",
+    "contact": {
+      "email": "hr@devworks.com",
+      "phone": "+1-555-111-4444"
+    },
+    "requirements": [
+      "2+ years in front-end development",
+      "Proficiency in Vue.js, HTML, CSS, JavaScript",
+      "Experience with state management (Vuex)",
+      "Good communication skills"
+    ],
+    "experience": "2+ years",
+    "postedDate": "2024-11-01",
+    "employmentType": "Full-Time",
+    "salary": "$65,000 - $75,000",
+    "deadline": "2024-12-10"
+  },
+  {
+    "id": "14",
+    "title": "Node.js Developer",
+    "location": "Remote",
+    "description": "We are hiring a Node.js Developer to help build scalable back-end services.",
+    "companyName": "BackendPro",
+    "contact": {
+      "email": "careers@backendpro.com",
+      "phone": "+1-555-444-2222"
+    },
+    "requirements": [
+      "3+ years of experience in Node.js",
+      "Proficiency in MongoDB and Express",
+      "Experience with building RESTful APIs",
+      "Strong problem-solving skills"
+    ],
+    "experience": "3+ years",
+    "postedDate": "2024-11-03",
+    "employmentType": "Full-Time",
+    "salary": "$80,000 - $90,000",
+    "deadline": "2024-12-15"
+  },
+  {
+    "id": "15",
+    "title": "Software Engineer",
+    "location": "Seattle, WA",
+    "description": "Looking for a Software Engineer experienced in Java and cloud technologies to join our growing team.",
+    "companyName": "TechCloud",
+    "contact": {
+      "email": "jobs@techcloud.com",
+      "phone": "+1-555-888-6543"
+    },
+    "requirements": [
+      "4+ years in software engineering",
+      "Proficiency in Java, Spring, and AWS",
+      "Experience with distributed systems",
+      "Strong debugging skills"
+    ],
+    "experience": "4+ years",
+    "postedDate": "2024-11-07",
+    "employmentType": "Full-Time",
+    "salary": "$95,000 - $110,000",
+    "deadline": "2024-12-15"
+  },
+  {
+    "id": "16",
+    "title": "Salesforce Developer",
+    "location": "Chicago, IL",
+    "description": "We are looking for a Salesforce Developer to customize Salesforce applications and improve business processes.",
+    "companyName": "CRM Solutions",
+    "contact": {
+      "email": "hr@crmsolutions.com",
+      "phone": "+1-555-999-1234"
+    },
+    "requirements": [
+      "2+ years of Salesforce development experience",
+      "Proficiency in Apex and Visualforce",
+      "Experience with Lightning Components",
+      "Salesforce certification is a plus"
+    ],
+    "experience": "2+ years",
+    "postedDate": "2024-11-06",
+    "employmentType": "Full-Time",
+    "salary": "$70,000 - $85,000",
+    "deadline": "2024-12-10"
+  },
+  {
+    "id": "17",
+    "title": "Cloud Engineer",
+    "location": "Remote",
+    "description": "Join us as a Cloud Engineer to build and maintain cloud infrastructure using AWS and Azure.",
+    "companyName": "CloudNet",
+    "contact": {
+      "email": "careers@cloudnet.com",
+      "phone": "+1-555-777-6543"
+    },
+    "requirements": [
+      "3+ years in cloud infrastructure",
+      "Experience with AWS, Azure, or Google Cloud",
+      "Proficiency in Terraform, Kubernetes",
+      "Strong problem-solving and troubleshooting skills"
+    ],
+    "experience": "3+ years",
+    "postedDate": "2024-11-07",
+    "employmentType": "Full-Time",
+    "salary": "$85,000 - $95,000",
+    "deadline": "2024-12-20"
+  },
+  {
+    "id": "18",
+    "title": "Python Developer",
+    "location": "Los Angeles, CA",
+    "description": "We are looking for a Python Developer to build data pipelines and machine learning models.",
+    "companyName": "DataWorks",
+    "contact": {
+      "email": "jobs@dataworks.com",
+      "phone": "+1-555-444-9876"
+    },
+    "requirements": [
+      "2+ years in Python development",
+      "Experience with Django or Flask",
+      "Familiarity with data science tools",
+      "Strong understanding of algorithms"
+    ],
+    "experience": "2+ years",
+    "postedDate": "2024-11-08",
+    "employmentType": "Full-Time",
+    "salary": "$80,000 - $90,000",
+    "deadline": "2024-12-15"
+  },
+  {
+    "id": "19",
+    "title": "System Administrator",
+    "location": "New York, NY",
+    "description": "System Administrator needed to maintain and troubleshoot our company's servers and infrastructure.",
+    "companyName": "NetWorks Inc.",
+    "contact": {
+      "email": "careers@networks.com",
+      "phone": "+1-555-666-7654"
+    },
+    "requirements": [
+      "3+ years of system administration experience",
+      "Proficiency in Linux and Windows server management",
+      "Experience with monitoring tools",
+      "Strong scripting skills"
+    ],
+    "experience": "3+ years",
+    "postedDate": "2024-11-05",
+    "employmentType": "Full-Time",
+    "salary": "$70,000 - $85,000",
+    "deadline": "2024-12-10"
+  },
+  {
+    "id": "20",
+    "title": "Game Developer",
+    "location": "Austin, TX",
+    "description": "We are hiring a Game Developer to work on innovative gaming experiences using Unity.",
+    "companyName": "GameWorks Studios",
+    "contact": {
+      "email": "jobs@gameworks.com",
+      "phone": "+1-555-777-6543"
+    },
+    "requirements": [
+      "3+ years in game development",
+      "Proficiency in Unity and C#",
+      "Experience with 3D modeling and animation",
+      "Knowledge of game mechanics and physics"
+    ],
+    "experience": "3+ years",
+    "postedDate": "2024-11-07",
+    "employmentType": "Full-Time",
+    "salary": "$80,000 - $100,000",
+    "deadline": "2024-12-20"
+  },
+  {
+    "id": "21",
+    "title": "Security Engineer",
+    "location": "Remote",
+    "description": "Join our team as a Security Engineer to ensure the safety of our systems and infrastructure.",
+    "companyName": "SafeTech",
+    "contact": {
+      "email": "hr@safetech.com",
+      "phone": "+1-555-444-3333"
+    },
+    "requirements": [
+      "4+ years in security engineering",
+      "Experience with network security protocols",
+      "Knowledge of encryption techniques",
+      "Certifications like CISSP, CEH are a plus"
+    ],
+    "experience": "4+ years",
+    "postedDate": "2024-11-06",
+    "employmentType": "Full-Time",
+    "salary": "$95,000 - $110,000",
+    "deadline": "2024-12-15"
+  },
+  {
+    "id": "22",
+    "title": "DevOps Engineer (AWS)",
+    "location": "Remote",
+    "description": "DevOps Engineer with expertise in AWS to optimize cloud services and CI/CD pipelines.",
+    "companyName": "CloudOps",
+    "contact": {
+      "email": "jobs@cloudops.com",
+      "phone": "+1-555-123-8888"
+    },
+    "requirements": [
+      "3+ years in DevOps",
+      "Experience with AWS, Docker, and Kubernetes",
+      "Proficiency in CI/CD tools",
+      "Strong problem-solving skills"
+    ],
+    "experience": "3+ years",
+    "postedDate": "2024-11-05",
+    "employmentType": "Full-Time",
+    "salary": "$90,000 - $105,000",
+    "deadline": "2024-12-20"
+  },
+  {
+    "id": "23",
+    "title": "Data Analyst",
+    "location": "Chicago, IL",
+    "description": "We are hiring a Data Analyst to extract insights and help guide business decisions.",
+    "companyName": "BizAnalytics",
+    "contact": {
+      "email": "careers@bizanalytics.com",
+      "phone": "+1-555-666-3333"
+    },
+    "requirements": [
+      "2+ years in data analysis",
+      "Experience with SQL and Excel",
+      "Familiarity with data visualization tools",
+      "Strong communication skills"
+    ],
+    "experience": "2+ years",
+    "postedDate": "2024-11-08",
+    "employmentType": "Full-Time",
+    "salary": "$60,000 - $75,000",
+    "deadline": "2024-12-10"
+  },
+  {
+    "id": "24",
+    "title": "Blockchain Developer",
+    "location": "San Francisco, CA",
+    "description": "Blockchain Developer needed to work on blockchain applications and smart contracts.",
+    "companyName": "CryptoTech",
+    "contact": {
+      "email": "hr@cryptotech.com",
+      "phone": "+1-555-222-4444"
+    },
+    "requirements": [
+      "3+ years in blockchain development",
+      "Experience with Ethereum, Solidity, and smart contracts",
+      "Strong knowledge of cryptography",
+      "Experience with DApps"
+    ],
+    "experience": "3+ years",
+    "postedDate": "2024-11-04",
+    "employmentType": "Full-Time",
+    "salary": "$110,000 - $120,000",
+    "deadline": "2024-12-15"
+  },
+  {
+    "id": "25",
+    "title": "Embedded Systems Engineer",
+    "location": "Austin, TX",
+    "description": "Embedded Systems Engineer required to work on IoT devices and embedded systems.",
+    "companyName": "TechDevices",
+    "contact": {
+      "email": "recruit@techdevices.com",
+      "phone": "+1-555-111-5555"
+    },
+    "requirements": [
+      "3+ years in embedded systems engineering",
+      "Experience with C and C++",
+      "Familiarity with IoT protocols",
+      "Strong debugging and problem-solving skills"
+    ],
+    "experience": "3+ years",
+    "postedDate": "2024-11-02",
+    "employmentType": "Full-Time",
+    "salary": "$85,000 - $100,000",
+    "deadline": "2024-12-12"
+  },
+  {
+    "id": "26",
+    "title": "Business Analyst",
+    "location": "Dallas, TX",
+    "description": "We are looking for a Business Analyst to bridge the gap between our technical and business teams.",
+    "companyName": "BizSolutions",
+    "contact": {
+      "email": "careers@bizsolutions.com",
+      "phone": "+1-555-777-8888"
+    },
+    "requirements": [
+      "3+ years in business analysis",
+      "Proficiency in business modeling tools",
+      "Strong communication and documentation skills",
+      "Experience in Agile environments"
+    ],
+    "experience": "3+ years",
+    "postedDate": "2024-11-03",
+    "employmentType": "Full-Time",
+    "salary": "$75,000 - $85,000",
+    "deadline": "2024-12-15"
+  }
+]
